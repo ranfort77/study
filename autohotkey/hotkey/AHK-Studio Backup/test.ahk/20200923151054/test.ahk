@@ -1,0 +1,1 @@
+^c:: MsgBox, Hello World!
