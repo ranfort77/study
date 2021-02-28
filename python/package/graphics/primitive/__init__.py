@@ -1,0 +1,7 @@
+print()
+print(__name__)
+print(__path__)
+print(__package__)
+print(__file__)
+print(dir())
+print()
